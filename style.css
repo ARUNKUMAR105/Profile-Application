@@ -1,0 +1,32 @@
+
+.main1{   
+    background-color: aqua; 
+    border-radius: 30px;    
+}
+#n1,#n2,#p1,#p2,#a1,#a2{
+    border-radius: 50px;
+    margin-left: 40vh;     
+} 
+.main1,.main2, td{
+    padding: 10px;    
+}
+.main2{
+    background-color: blue; 
+    border-radius: 30px; 
+}
+table{
+    margin-left: 350px;
+}
+img{
+    height: 100px;
+    width: 150px;
+}
+.b{
+   border-radius: 30px; 
+   margin-left: 40vh;
+}
+body{
+    background-color: cornflowerblue;
+    padding: 50px;
+    
+}
